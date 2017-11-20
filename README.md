@@ -1,5 +1,6 @@
 # BrumHack2017 - Leap Motion Projects!
-BrumHack2017 Project *- Winners of 'Best Tech' (from Bloomberg) and 'Best Domain' (from MLH on behalf of domain.com)*
+BrumHack2017 Projects *- Winners of 'Best Tech' (from Bloomberg) and 'Best Domain' (from MLH on behalf of domain.com)*
+
 
 *by Sam Warner, Nikolas Mouzourides and Chloe Seivwright.*
 
