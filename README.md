@@ -10,6 +10,11 @@ It uses a [Leap Motion](www.leapmotion.com), their awesome Java API, and a Java-
 
 These have all been tied together in an effort to make some music (or at least, loud noises).
 
+### What the hell is a Theremin?!
+This question was asked many times at BrumHack. Basically, it makes "weeewaaahhhwoooowaaa" noises, and can be played as a musical instrument. It is quite famous for being used in the Star Trek intro.
+
+In theory, (if you were good enough) you could use this to make sounds as featured on this [Spotify playlist...](https://open.spotify.com/user/odasdelespacio/playlist/2LaWHSxITLAsLBXMmZbJ3z)
+
 ### A crash course in playing the theremin
 So, we aren't 100% sure this is correct, but the way OUR theremin (and theremin-flavoured instruments) work is:
 * Left hand palm elevation (i.e. y-plane) controls volume. A higher palm is loud, and a lower palm is quiet).
