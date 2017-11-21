@@ -87,6 +87,6 @@ It's set up for `localhost` here, but you can change the client to point at a sp
 ## LeapTranslate
 **NOT YET IMPLEMENTED**
 
-Another cool idea would be to translate basic sign language (maybe start off with the [American Fingerspelled Alphabet](http://www.lifeprint.com/asl101/fingerspelling/fingerspelling.htm), outputting a letter when a hand gesture is recognised.
+Another cool idea would be to translate basic sign language (maybe start off with the [American Fingerspelled Alphabet](http://www.lifeprint.com/asl101/fingerspelling/fingerspelling.htm)), outputting a letter when a hand gesture is recognised.
 
 But again... Why are there so many letters that look so similar :scream:
