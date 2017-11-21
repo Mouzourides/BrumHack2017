@@ -3,6 +3,12 @@ BrumHack2017 Project(s) ***- Winners of 'Best Tech' (from Bloomberg) and 'Best D
 
 *by Sam Warner, Nikolas Mouzourides and Chloe Seivwright.*
 
+## Dependencies
+You'll need:
+* [A Leap Motion sensor](http://store-eur.leapmotion.com/)
+* [The Leap Motion drivers](https://www.leapmotion.com/setup/desktop/)
+* [The Leap Motion SDK](https://developer.leapmotion.com/get-started/)
+
 ## LeapTheremin
 The LeapTheremin is a mock-theremin / whole host of different musical instruments all of which may be played in a theremin-like style.
 
